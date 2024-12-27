@@ -26,4 +26,4 @@ gcc -o insert_dylib main.c
 ```
 
 
-成功！生成了 insert.dylib 的可执行文件
+成功！生成了 insert_dylib 的可执行文件
